@@ -1,0 +1,43 @@
+.watch{
+    margin:50px; 
+    padding: 10px; 
+}
+
+.box-title{
+    background-color:red; 
+    color:white;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.box-date-pre{
+    background-color: black; 
+    color: orange;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    border: 2px solid rgb(216, 209, 209);  
+}
+.box-date-des{
+    background-color: black; 
+    color:green;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    border: 2px solid rgb(216, 209, 209);  
+}
+.title{
+    background-color: black; 
+    color: white; 
+    padding: 5px;   
+    font-weight: bold;
+     
+}
+.center{
+    text-align: center;  
+    margin-top: 20px;    
+}
